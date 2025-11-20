@@ -1,9 +1,9 @@
 {
-    "name": "My New Hugo Site",
-    "short_name": "My New Hugo Site",
-    "start_url": "https://691d77b36bfb0763ddf90629--creative-kleicha-f04b34.netlify.app/",
+    "name": "sitename",
+    "short_name": "sitename",
+    "start_url": "/posts/",
     "theme_color": "#434648",
-    "background_color": "#ffffff",
+    "background_color": "#fff",
     "display": "standalone",
     "icons": [
         {
