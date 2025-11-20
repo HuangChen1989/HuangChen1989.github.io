@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo site</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 19 Nov 2025 12:45:02 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Nov 2025 12:45:02 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>写出我心读后感</title>
-      <link>//localhost:1313/posts/xcwxdhg/</link>
+      <link>/posts/xcwxdhg/</link>
       <pubDate>Wed, 19 Nov 2025 12:45:02 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/xcwxdhg/</guid>
+      <guid>/posts/xcwxdhg/</guid>
       
       <description>&lt;p&gt;这是一本指导“如何做”的书。通常这类书会很畅销，作者也可能因此出名——因为每个人都渴望成功，渴望被认可。但恰恰是这类书，我们应该少读。&lt;/p&gt;
 &lt;p&gt;作者提出了一个新颖的观点：将写作与修禅结合。把自己的想法写下来。正如弗洛伊德所说，前意识中蕴藏着诸多念头，只有被我们注意，才能进入意识层面。虽然我们无法直接探寻潜意识，但前意识中藏有线索——把它们写下来。&lt;/p&gt;
@@ -30,13 +30,13 @@
     
     <item>
       <title>想到哪写到哪和这个页面是什么</title>
-      <link>//localhost:1313/posts/test/</link>
+      <link>/posts/test/</link>
       <pubDate>Wed, 19 Nov 2025 04:13:24 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/test/</guid>
+      <guid>/posts/test/</guid>
       
       <description>&lt;p&gt;有什么好写的呢？我更偏爱带有情感的文字。大概是因为一直喜欢诗歌和婉约词，受了些影响。不过，我已婚，有孩子，家庭也算和睦。把情感寄托在他人身上是不道德的；而且情感这东西，就像跷跷板——这一头重了，那一头就轻，还容易失控，怕失去平衡。&lt;/p&gt;
-&lt;p&gt;写长篇大论，或者自认为有深度的文字，总免不了质疑生命的意义，陷入存在主义的困惑。迷茫着迷茫着，可人到中年，半截入土了，还抱着文艺追求不放，多少像是有病，跟“旅居者”“嬉皮士”差不多。所以，我最终的解决办法，就是把自己一分为二：一部分按部就班过日子，另一部分写写东西，追求精神层面的文字创作。&lt;/p&gt;
+&lt;p&gt;写长篇大论，或者自认为有深度的文字，总免不了质疑生命的意义，陷入存在主义的困惑。迷茫着迷茫着，可人近中年，半截入土了，还抱着文艺追求不放，多少像是有病，跟“旅居者”“嬉皮士”差不多。所以，我最终的解决办法，就是把自己一分为二：一部分按部就班过日子，另一部分写写东西，追求精神层面的文字创作。&lt;/p&gt;
 &lt;p&gt;那我写什么呢？肯定是和情感有关的。翻翻旧账，把那些带着情绪与愁绪的文字，拿出来重新翻炒一遍——那就是我。是这些文字塑造了我的边界，是我存在过的证据，是让我和别人不一样的东西。当然，发到网上的，肯定都是经过虚构的。&lt;/p&gt;
 &lt;p&gt;具体怎么写？我会翻看以前写的日记、印象笔记、简书，再回忆回忆。原始的文字其实都杂乱不堪，还好现在有AI。包括此刻我想写的东西，也一样杂乱。最近我甚至发现自己写的东西出现了倒装，语序颠倒。这时候AI就派上用场了——让它帮我在不改变原意的基础上纠错、改通顺。&lt;/p&gt;
 &lt;p&gt;其实我也试过让AI做删减，比如删掉一半内容，文章确实会变干练，但很多想法也跟着丢了。杂乱、啰嗦，本就是我写作的特征，还是该保留下来。这是一种意识流吧，我挺喜欢这样写，想到哪写到哪。尤其如果本来就不打算给别人看，写得负面了，就直接用碎纸机碎掉。&lt;/p&gt;
