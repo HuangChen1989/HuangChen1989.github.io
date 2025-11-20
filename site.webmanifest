@@ -1,9 +1,9 @@
 {
-    "name": "sitename",
-    "short_name": "sitename",
-    "start_url": "/posts/",
+    "name": "hugo site",
+    "short_name": "hugo site",
+    "start_url": "//localhost:1313/",
     "theme_color": "#434648",
-    "background_color": "#fff",
+    "background_color": "#ffffff",
     "display": "standalone",
     "icons": [
         {
