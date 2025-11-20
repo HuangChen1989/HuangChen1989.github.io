@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
+    <link>https://691d77b36bfb0763ddf90629--creative-kleicha-f04b34.netlify.app/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Nov 2025 12:45:02 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Nov 2025 12:45:02 +0000</lastBuildDate><atom:link href="https://691d77b36bfb0763ddf90629--creative-kleicha-f04b34.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>写出我心读后感</title>
-      <link>https://example.org/posts/xcwxdhg/</link>
+      <link>https://691d77b36bfb0763ddf90629--creative-kleicha-f04b34.netlify.app/posts/xcwxdhg/</link>
       <pubDate>Wed, 19 Nov 2025 12:45:02 +0000</pubDate>
       
-      <guid>https://example.org/posts/xcwxdhg/</guid>
+      <guid>https://691d77b36bfb0763ddf90629--creative-kleicha-f04b34.netlify.app/posts/xcwxdhg/</guid>
       
       <description>&lt;p&gt;这是一本指导“如何做”的书。通常这类书会很畅销，作者也可能因此出名——因为每个人都渴望成功，渴望被认可。但恰恰是这类书，我们应该少读。&lt;/p&gt;
 &lt;p&gt;作者提出了一个新颖的观点：将写作与修禅结合。把自己的想法写下来。正如弗洛伊德所说，前意识中蕴藏着诸多念头，只有被我们注意，才能进入意识层面。虽然我们无法直接探寻潜意识，但前意识中藏有线索——把它们写下来。&lt;/p&gt;
@@ -29,18 +29,20 @@
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://example.org/posts/test/</link>
+      <title>想到哪写到哪和这个页面是什么</title>
+      <link>https://691d77b36bfb0763ddf90629--creative-kleicha-f04b34.netlify.app/posts/test/</link>
       <pubDate>Wed, 19 Nov 2025 04:13:24 +0000</pubDate>
       
-      <guid>https://example.org/posts/test/</guid>
+      <guid>https://691d77b36bfb0763ddf90629--creative-kleicha-f04b34.netlify.app/posts/test/</guid>
       
-      <description>&lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;a&lt;/li&gt;
-&lt;li&gt;b&lt;/li&gt;
-&lt;li&gt;c&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;有什么好写的呢？我更偏爱带有情感的文字。大概是因为一直喜欢诗歌和婉约词，受了些影响。不过，我已婚，有孩子，家庭也算和睦。把情感寄托在他人身上是不道德的；而且情感这东西，就像跷跷板——这一头重了，那一头就轻，还容易失控，最后失去平衡，那就全完了。
+写长篇大论，或者自认为有深度的文字，总免不了质疑生命的意义，陷入存在主义的困惑。迷茫着迷茫着，可人到中年，半截入土了，还抱着文艺追求不放，多少像是有病，跟“旅居者”“嬉皮士”差不多。所以，我最终的解决办法，就是把自己一分为二：一部分按部就班过日子，另一部分写写东西，追求精神层面的文字创作。
+那我写什么呢？肯定是和情感有关的。翻翻旧账，把那些带着情绪与愁绪的文字，拿出来重新翻炒一遍——那就是我。是这些文字塑造了我的边界，是我存在过的证据，是让我和别人不一样的东西。当然，发到网上的，肯定都是经过虚构的。
+具体怎么写？我会翻看以前写的日记、印象笔记、简书，再回忆回忆。原始的文字其实都杂乱不堪，还好现在有AI。包括此刻我想写的东西，也一样杂乱。最近我甚至发现自己写的东西出现了倒装，语序颠倒。这时候AI就派上用场了——让它帮我在不改变原意的基础上纠错、改通顺。
+其实我也试过让AI做删减，比如删掉一半内容，文章确实会变干练，但很多想法也跟着丢了。杂乱、啰嗦，本就是我写作的特征，还是该保留下来。这是一种意识流吧，我挺喜欢这样写，想到哪写到哪。尤其如果本来就不打算给别人看，写得负面了，就直接用碎纸机碎掉。
+如果在网上，反正大家互不认识，包容度会不会高一点？或者，会不会有特定的读者愿意包容我？我为什么在这儿弄一个博客一样的东西呢？大概是因为闲得慌。如果一篇篇发给别人，属于自我意识过剩——我不是主角，也没人有心情听我喃喃自语。
+不过，我还是希望被人看见，渴望自己的话有人听到，这大概仍是存在主义的呼喊。以前在简书上发过小诗，也在技术论坛发过编程相关的小技巧，可回应都很少。毕竟我也不专业，这里只是个展示的地方，甚至不能评论。我只是把这个主页链接贴在某些应用的自我介绍里，或者偶尔发给一些人。
+下面简单写一下发布流程。这是放在 Netlify 上的静态网页，测试在移动、电信的移动网络下可以访问，但移动宽带上不行。网站是在手机的 Termux 环境下用 Hugo 生成的静态页面。生成后，把静态文件上传到 GitHub，等十几分钟，Netlify 就会自动更新。&lt;/p&gt;</description>
       
     </item>
     
